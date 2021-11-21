@@ -1,0 +1,11 @@
+.section-content {
+    color: green;
+    background: url("../img/logo_wz.png");
+}
+
+body {
+    background: url("../img/logo_wz.png");
+    font-family: notosans, sans-serif;
+    /*font-family: Arial, serif;*/
+
+}
