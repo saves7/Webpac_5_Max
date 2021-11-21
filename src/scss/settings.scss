@@ -6,14 +6,19 @@
 body {
 
 }
-.container {
-  width: 100%;
-  color: royalblue;
-  max-width: 1200px;
-  margin: 0 auto;
 
+div {
+  box-sizing: border-box;
 }
 
 ul li {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+a {
   text-decoration: none;
 }
